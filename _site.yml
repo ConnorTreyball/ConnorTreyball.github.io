@@ -1,0 +1,14 @@
+name: "my-website"
+navbar:
+  title: "Connor Treyball"
+  left:
+    - text: "Home"
+      href: index.html
+  right:
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate    
+    
