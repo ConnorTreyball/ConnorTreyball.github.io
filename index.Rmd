@@ -29,3 +29,9 @@ Creating headers that have multiple layers:
 ##OrLikeThis
 
 ###OrLikeThis
+
+> "You can use block quotes like this too"
+
+RStudio even allows for the insertion of pictures:
+<figure align = "middle">
+<img src= "Knuckles_the_Echidna.jpg" style = "width:300px;">
