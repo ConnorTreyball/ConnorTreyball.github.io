@@ -2,12 +2,30 @@
 title: "Connor Treyball's Website"
 ---
 
-Hello, Website!
+Hello, everyone!
+
+I'd like to use this first page of my website to explore some of the features of RStudio
 
 
-
+To start, this is an example of a plot we've made in class:
 ```{r}
 x <- 1:10
 y <- 21:30
 plot(x,y)
 ```
+
+Another example would be bolding text like so: **BOLD**
+
+or
+
+Italicizing text: *Italicizing*
+
+or
+
+Creating headers that have multiple layers: 
+
+#LikeThis
+
+##OrLikeThis
+
+###OrLikeThis
